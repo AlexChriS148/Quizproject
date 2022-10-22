@@ -64,7 +64,10 @@
 		47411B1628F1AC2500AFB1F7 /* FinalProject */ = {
 			isa = PBXGroup;
 			children = (
-				47411B3528F1AFD900AFB1F7 /* Others */,
+				47411B2528F1AC2600AFB1F7 /* Info.plist */,
+				47411B2028F1AC2600AFB1F7 /* Assets.xcassets */,
+				47411B1728F1AC2500AFB1F7 /* AppDelegate.swift */,
+				47411B1928F1AC2500AFB1F7 /* SceneDelegate.swift */,
 				47411B3428F1AFBE00AFB1F7 /* Estrutura */,
 				47411B3328F1AF8900AFB1F7 /* Comands */,
 			);
@@ -90,17 +93,6 @@
 				47411B1D28F1AC2500AFB1F7 /* Main.storyboard */,
 			);
 			path = Estrutura;
-			sourceTree = "<group>";
-		};
-		47411B3528F1AFD900AFB1F7 /* Others */ = {
-			isa = PBXGroup;
-			children = (
-				47411B2528F1AC2600AFB1F7 /* Info.plist */,
-				47411B2028F1AC2600AFB1F7 /* Assets.xcassets */,
-				47411B1728F1AC2500AFB1F7 /* AppDelegate.swift */,
-				47411B1928F1AC2500AFB1F7 /* SceneDelegate.swift */,
-			);
-			path = Others;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
